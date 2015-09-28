@@ -1,4 +1,4 @@
-RxJava Android Example
+RxJava Android Example ..
 ======================
 
 A proof-of-concept implementation of [FRP](http://en.wikipedia.org/wiki/Functional_reactive_programming) in Android. It uses [RxJava](https://github.com/Netflix/RxJava) and some sugar to connect Android components to `Observable`s.
